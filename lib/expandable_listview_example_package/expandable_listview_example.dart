@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutterexpandablelistview/Expandable_listViewFull.dart';
+import 'package:flutterexpandablelistview/expandable_list.dart';
 
 class ExpandableListViewApp extends StatelessWidget {
   @override
